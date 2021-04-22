@@ -2,7 +2,7 @@
 ## Main features
 - provide object that can use like none like in others programming language
 - provide functions(macros) for Nonetype of this library
-- what?do you think it has more usefull features? look who is the author first,please
+- what?do you think it has more usefull features? please look who is the author first
 ## main functions(macros)
 ### `to(self,v)`
 > make the `self`'s `value` property into `v` variable
